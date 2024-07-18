@@ -14,7 +14,7 @@ const Intro = () => {
           <br /> Website Designer
         </span>
         <p className="intropara">
-         
+         I am a full stack web designer with passion in software development
         </p>
         <Link>
           <button className="btn">
