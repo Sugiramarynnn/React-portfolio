@@ -1,8 +1,8 @@
 import React from "react";
 import "./Navbar.css";
-import logo from "../.././public/logo.png";
+import logo from "../../../public/logo.png";
 import { Link } from "react-scroll";
-import contact from "../../public/contactt.png";
+import contact from "../../../public/contactt.png";
 
 const NavBar = () => {
   return (

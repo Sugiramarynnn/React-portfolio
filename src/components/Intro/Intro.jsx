@@ -14,8 +14,7 @@ const Intro = () => {
           <br /> Website Designer
         </span>
         <p className="intropara">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere,culpa <br/> magni eius tempore
-          provident expedita! Voluptatem, fugit.
+         
         </p>
         <Link>
           <button className="btn">
